@@ -1,5 +1,5 @@
 
-export const API_URL = "https://springweb-production.up.railway.app";
+export const API_URL = "https://spring-web-production.up.railway.app";
 export const API_URL_lien = window.location.origin;
 
 
